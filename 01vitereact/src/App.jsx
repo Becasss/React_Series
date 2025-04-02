@@ -1,11 +1,12 @@
+import Bikash from "./Bikash"
 function App() {
 
 
   return (
-    <h1>Learning React - Bikash Yamphu Rai</h1>
-    <p>This is paragraph</p>
+    <>
+    <Bikash/>
   
-     
+     </>
   )
 }
 
